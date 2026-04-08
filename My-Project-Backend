@@ -1,3 +1,4 @@
+cd career-guidance-backend
 git init
 git add .
 git commit -m "Backend project"
